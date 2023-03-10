@@ -44,7 +44,7 @@ Corpo da requisição deve ser uma string contendo os dados binários codificados e
 
 json
 Copy code
-{ "base64Data": "A3ZhbHVlIGlzIGJpbmFyeSBkYXRvcw==" }
+"A3ZhbHVlIGlzIGJpbmFyeSBkYXRvcw=="
 Resposta
 Retorna 200 OK se os dados foram armazenados com sucesso.
 
@@ -61,7 +61,7 @@ Corpo da requisição deve ser uma string contendo os dados binários codificados e
 
 json
 Copy code
-{ "base64Data": "A3ZhbHVlIGlzIGJpbmFyeSBkYXRvcw==" }
+"A3ZhbHVlIGlzIGJpbmFyeSBkYXRvcw=="
 Resposta
 Retorna 200 OK se os dados foram armazenados com sucesso.
 
