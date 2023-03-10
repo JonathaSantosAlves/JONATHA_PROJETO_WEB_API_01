@@ -2,6 +2,29 @@ C# ASP.NET CORE 6.0 WEB API - CONCEITOS DDD Design Patterns - IOC - Injeção de D
 Meu PortFolio 
 https://www.jonatha.com.br/
 
+Os Links para consulta coloquei em meu site, ou se preferir pode baixar o projeto no github https://github.com/JonathaSantosAlves/JONATHA_PROJETO_WEB_API_01
+
+Obter diferenças
+GET /v1/diff/{id}
+https://www.jonatha.com.br/projetoapi01/v1/diff/10
+
+https://prnt.sc/NkEY4h3BxPC6
+
+
+Adicionar dados direito
+POST /v1/diff/{id}/right
+https://www.jonatha.com.br/projetoapi01/v1/diff/10/right
+
+https://prnt.sc/2jp2CLSz6i74
+
+
+Endpoints
+Adicionar dados esquerdo
+POST /v1/diff/{id}/left
+https://www.jonatha.com.br/projetoapi01/v1/diff/10/left
+
+https://prnt.sc/k2D8G0e5O3Dj
+
 Comparação de Dados Binários
 Este projeto implementa uma API para comparar dados binários codificados em base64.
 
