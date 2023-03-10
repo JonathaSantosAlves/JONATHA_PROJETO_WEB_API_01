@@ -87,14 +87,14 @@ Se ocorrer um erro durante a execução da API, a resposta será um código de statu
 https://prnt.sc/JaOnnuP5hjgi
 
 Tecnologias Utilizadas
-ASP.NET Core 6.0
-Microsoft.AspNetCore.Mvc.Newtonsoft
-Microsoft.Extensions.Primitives
-Microsoft.NET.Test.Sdk
-Moq
-xunit
-Swashbuckle.AspNetCore
-xunit.runner.visualstudio
+(ASP.NET Core 6.0) - 
+(Microsoft.AspNetCore.Mvc.Newtonsoft) - 
+(Microsoft.Extensions.Primitives) - 
+(Microsoft.NET.Test.Sdk) - 
+(Moq) - 
+(xunit) - 
+(Swashbuckle.AspNetCore) - 
+(xunit.runner.visualstudio) - 
 
 Autor
 Jonatha Santos Alves - GitHub - https://github.com/JonathaSantosAlves
