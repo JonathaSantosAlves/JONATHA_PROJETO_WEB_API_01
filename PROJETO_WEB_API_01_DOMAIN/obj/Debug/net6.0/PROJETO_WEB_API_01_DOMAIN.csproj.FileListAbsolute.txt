@@ -1,0 +1,12 @@
+C:\Users\jonat\source\repos\PROJETO_WEB_API_01\PROJETO_WEB_API_01_DOMAIN\bin\Debug\net6.0\PROJETO_WEB_API_01_DOMAIN.deps.json
+C:\Users\jonat\source\repos\PROJETO_WEB_API_01\PROJETO_WEB_API_01_DOMAIN\bin\Debug\net6.0\PROJETO_WEB_API_01_DOMAIN.dll
+C:\Users\jonat\source\repos\PROJETO_WEB_API_01\PROJETO_WEB_API_01_DOMAIN\bin\Debug\net6.0\PROJETO_WEB_API_01_DOMAIN.pdb
+C:\Users\jonat\source\repos\PROJETO_WEB_API_01\PROJETO_WEB_API_01_DOMAIN\obj\Debug\net6.0\PROJETO_WEB_API_01_DOMAIN.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\PROJETO_WEB_API_01\PROJETO_WEB_API_01_DOMAIN\obj\Debug\net6.0\PROJETO_WEB_API_01_DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\PROJETO_WEB_API_01\PROJETO_WEB_API_01_DOMAIN\obj\Debug\net6.0\PROJETO_WEB_API_01_DOMAIN.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\PROJETO_WEB_API_01\PROJETO_WEB_API_01_DOMAIN\obj\Debug\net6.0\PROJETO_WEB_API_01_DOMAIN.AssemblyInfo.cs
+C:\Users\jonat\source\repos\PROJETO_WEB_API_01\PROJETO_WEB_API_01_DOMAIN\obj\Debug\net6.0\PROJETO_WEB_API_01_DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\PROJETO_WEB_API_01\PROJETO_WEB_API_01_DOMAIN\obj\Debug\net6.0\PROJETO_WEB_API_01_DOMAIN.dll
+C:\Users\jonat\source\repos\PROJETO_WEB_API_01\PROJETO_WEB_API_01_DOMAIN\obj\Debug\net6.0\refint\PROJETO_WEB_API_01_DOMAIN.dll
+C:\Users\jonat\source\repos\PROJETO_WEB_API_01\PROJETO_WEB_API_01_DOMAIN\obj\Debug\net6.0\PROJETO_WEB_API_01_DOMAIN.pdb
+C:\Users\jonat\source\repos\PROJETO_WEB_API_01\PROJETO_WEB_API_01_DOMAIN\obj\Debug\net6.0\ref\PROJETO_WEB_API_01_DOMAIN.dll
